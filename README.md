@@ -19,3 +19,7 @@ You can change the display position and size by changing the frame property of t
 ### Output to a file
 Output an image containing text to a PNG format file. The file size will be 800x600, which is the same size as the view.
 ## Class Structure Diagram
+
+
+<img src="http://mikomokaru.sakura.ne.jp/data/B53/class.png" alt="class" title="class" width="500">
+
