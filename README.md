@@ -1,6 +1,8 @@
 ## macOS S27_GraphicTool2
 ## Write text on image
 
+<img src="http://mikomokaru.sakura.ne.jp/data/B53/GraphicTool2.png" alt="GraphicTool2" title="GraphicTool2" width="400">
+
 ### Open an image file
 You specify an image file with Open Panel, load and display it in the view of the window. The size of the image will be 800x600 pixels. Depending on the size of the image, there may be vertical or horizontal margins to maintain the aspect ratio of the image.
 ### Write text
