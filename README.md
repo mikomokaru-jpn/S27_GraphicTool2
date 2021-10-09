@@ -1,4 +1,4 @@
-## macOS S27_GraphicTool2
+## macOS_S_GraphicTool2
 ## Write text on image
 
 <img src="http://mikomokaru.sakura.ne.jp/data/B53/GraphicTool2.png" alt="GraphicTool2" title="GraphicTool2" width="400">
