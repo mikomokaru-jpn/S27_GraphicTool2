@@ -37,7 +37,7 @@ class TextBoxCtrl: NSWindowController, NSTextFieldDelegate {
 
     //windowNibNameプロパティ
     override var windowNibName: NSNib.Name?  {
-        return NSNib.Name(rawValue: "TextBox")
+        return NSNib.Name("TextBox")
     }
     weak var delagate: TextBoxCtrlDelegate? = nil
     //--------------------------------------------------------------------------

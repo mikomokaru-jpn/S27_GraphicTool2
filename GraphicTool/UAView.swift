@@ -198,8 +198,8 @@ class UAView: NSView, TextBoxCtrlDelegate {
             status = 1  //新規入力待ちへ
         case 1: //新規入力待ち
             let endPoint = self.convert(event.locationInWindow, from: nil)
-            let width  = fabs(startPoint.x - endPoint.x)
-            let height  = fabs(startPoint.y - endPoint.y)
+            let width  = abs(startPoint.x - endPoint.x)
+            let height  = abs(startPoint.y - endPoint.y)
             //矩形の原点を左下に合わせる
             var xPos: CGFloat = 0.0;
             var yPos: CGFloat = 0.0;
